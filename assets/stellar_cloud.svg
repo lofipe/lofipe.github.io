@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- Aether/Stellar Cloud Logo -->
+  <path d="M50 12 L53.5 22.5 L64 26 L53.5 29.5 L50 40 L46.5 29.5 L36 26 L46.5 22.5 Z" fill="#ffffff" />
+  <path d="M22 35 L24 42 L31 44 L24 46 L22 53 L20 46 L13 44 L20 42 Z" fill="#ffffff" opacity="0.6" />
+  <path d="M78 30 L80 37 L87 39 L80 41 L78 48 L76 41 L69 39 L76 37 Z" fill="#ffffff" opacity="0.8" />
+  <path d="M28 72 C22 72 17 67 17 61 C17 55.8 20.6 51.4 25.5 50.3 C27.5 41.5 35.3 35 44.5 35 C52.2 35 58.8 39.5 61.6 46.2 C63.5 44.8 65.9 44 68.5 44 C74.3 44 79 48.7 79 54.5 C79 55.4 78.9 56.2 78.7 57.1 C81.3 58.7 83 61.6 83 65 C83 70 79 74 74 74 L28 74 Z" fill="none" stroke="#ffffff" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+</svg>
